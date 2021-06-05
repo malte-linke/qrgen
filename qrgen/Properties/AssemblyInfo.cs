@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // Allgemeine Informationen über eine Assembly werden über die folgenden
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
-[assembly: AssemblyTitle("qrgen")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("QrGen")]
+[assembly: AssemblyDescription("Simple commandline qr code generator.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("qrgen")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyProduct("QrGen")]
+[assembly: AssemblyCopyright("Copyright © Malte Linke 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
